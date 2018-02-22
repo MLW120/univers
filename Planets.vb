@@ -1,5 +1,5 @@
 Imports System.Windows
-Public Class Mass
+Public Class Planets
     Public Mass As Double
     Public Acceleration As Vector
     Public Velocity As Vector
